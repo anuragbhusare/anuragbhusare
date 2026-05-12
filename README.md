@@ -15,14 +15,6 @@
 
 ---
 
-## `$ whoami`
-
-```yaml
-name      : Anurag Basavaraj Bhusare
-location  : Bengaluru, India
-focus     : Multi-agent systems · LLM fine-tuning · Production RAG · Azure AI
-```
-
 ---
 
 ## `$ ls -la ~/tech-stack/`
@@ -194,12 +186,3 @@ focus     : Multi-agent systems · LLM fine-tuning · Production RAG · Azure AI
 
 ---
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║             "Ship agents, not demos."                ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</div>
