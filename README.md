@@ -15,8 +15,6 @@
 
 ---
 
----
-
 ## `$ ls -la ~/tech-stack/`
 
 ### 🤖 AI & Agents
