@@ -1,14 +1,7 @@
 <!-- Header -->
 <div align="center">
-
-```
- █████╗ ███╗   ██╗██╗   ██╗██████╗  █████╗  ██████╗
-██╔══██╗████╗  ██║██║   ██║██╔══██╗██╔══██╗██╔════╝
-███████║██╔██╗ ██║██║   ██║██████╔╝███████║██║  ███╗
-██╔══██║██║╚██╗██║██║   ██║██╔══██╗██╔══██║██║   ██║
-██║  ██║██║ ╚████║╚██████╔╝██║  ██║██║  ██║╚██████╔╝
-╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝
-```
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C8A0&height=200&section=header&text=ANURAG&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20agents%20that%20think%2C%20models%20that%20learn&descAlignY=55&descAlign=50" />
+</div>
 
 
 <br/>
@@ -16,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuragbasavarajbhusare)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/anurag_bhusare)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anuragbhusare44@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://anuragbhusare.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://anuragportfolio-three.vercel.app/)
 
 </div>
 
